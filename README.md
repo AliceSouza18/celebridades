@@ -1,4 +1,4 @@
-## Buscador de Celebridades K-pop: Uma Viagem Musical!
+## Buscador de Celebridades K-pop: Uma Viagem Musical! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
@@ -32,12 +32,3 @@ Sinta-se à vontade para explorar o código e fazer suas próprias modificaçõe
 **Vamos juntos nessa jornada pelo mundo do K-pop!** 
 
 **#Kpop #JavaScript #Programação #Buscador #Celebridades**
-
-**Observações:**
-
-* **Personalize:** Adapte o README com mais detalhes técnicos ou informações sobre a sua aplicação, se necessário.
-* **Imagens:** Adicione imagens para deixar o README mais visualmente atraente.
-* **Links:** Inclua links para repositórios, documentação ou outros recursos relevantes.
-* **Humor:** Use a sua criatividade para deixar o README mais divertido e fácil de entender.
-
-**Lembre-se:** O objetivo do README é explicar de forma clara e concisa como a sua aplicação funciona, para que outras pessoas possam entender e contribuir com o projeto.
