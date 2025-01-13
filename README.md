@@ -27,8 +27,6 @@ A parte mais legal é como tudo isso acontece por baixo dos panos. A aplicação
 
 Sinta-se à vontade para explorar o código e fazer suas próprias modificações! É uma ótima forma de aprender mais sobre programação e personalizar a aplicação do seu jeito.
 
-**Dica:** Se você quiser adicionar mais artistas ou mudar o design, é só editar os arquivos `dados.js` e `style.css`.
-
 **Vamos juntos nessa jornada pelo mundo do K-pop!** 
 
 **#Kpop #JavaScript #Programação #Buscador #Celebridades**
